@@ -5,8 +5,8 @@ Bug Title: Product Card UI Misalignment on iPhone 12 Pro/Any Other Brands still 
 Category / Type: UI / Responsive Design Issue
 
 Field	Details
-Bug Title	Product Card UI Misalignment on iPhone 12 Pro/Any Other Brands still same Viewport
-Website Tested	(put website name here)
+Bug Title	Product Card UI Misalignment on iPhone 12 Pro/Any Other Brands stilL same Viewport
+Website Tested	(SWAG LABS) HERE LINK - https://www.saucedemo.com/inventory.html
 Environment	Desktop Chrome → Inspect → Responsive Mode → iPhone 12 Pro/Any Other Brands still same
 
 Steps to Reproduce	
@@ -24,7 +24,7 @@ Bug #2
 
 Bug Title: Missing Home navigation button inside Cart / Checkout page
 
-Website Tested: (put here what site you testing)
+Website Tested: (SWAG LABS) HERE LINK - https://www.saucedemo.com/inventory.html
 
 Environment: Chrome DevTools – Mobile View (iPhone 12 Pro/Any Other Brands still same)
 
@@ -50,6 +50,8 @@ Severity: Low
 Bug Case #3
 
 Bug Title: Product images appear zoomed/shrunk when returning to main page (iPhone 12 Pro/Any Other Brands still same)
+
+Website Tested: (SWAG LABS) HERE LINK - https://www.saucedemo.com/inventory.html
 
 Steps To Reproduce:
 
