@@ -1,18 +1,18 @@
 Bug #1
 
-Bug Title: Product Card UI Misalignment on iPhone 12 Pro Viewport
+Bug Title: Product Card UI Misalignment on iPhone 12 Pro/Any Other Brands still same Viewport
 
 Category / Type: UI / Responsive Design Issue
 
 Field	Details
-Bug Title	Product Card UI Misalignment on iPhone 12 Pro Viewport
+Bug Title	Product Card UI Misalignment on iPhone 12 Pro/Any Other Brands still same Viewport
 Website Tested	(put website name here)
-Environment	Desktop Chrome → Inspect → Responsive Mode → iPhone 12 Pro
+Environment	Desktop Chrome → Inspect → Responsive Mode → iPhone 12 Pro/Any Other Brands still same
 
 Steps to Reproduce	
 1. Open website
 2. Open product listing page
-3. Open DevTools → Responsive → select iPhone 12 Pro viewport
+3. Open DevTools → Responsive → select iPhone 12 Pro viewport/Any Other Brands still same
 4. Observe spacing between images, text, and price
 
 Actual Result	Images, product name text, and product price appear misaligned with large empty spaces; price appears too low from product image
@@ -26,7 +26,7 @@ Bug Title: Missing Home navigation button inside Cart / Checkout page
 
 Website Tested: (put here what site you testing)
 
-Environment: Chrome DevTools – Mobile View (iPhone 12 Pro)
+Environment: Chrome DevTools – Mobile View (iPhone 12 Pro/Any Other Brands still same)
 
 Steps to Reproduce:
 
@@ -46,3 +46,59 @@ No Home button exists on Cart / Checkout page. User needs to press Cancel or man
 
 Severity: Low
 (But can affect older users or non-tech users because they may not understand how to go back)
+
+Bug Case #3
+
+Bug Title: Product images appear zoomed/shrunk when returning to main page (iPhone 12 Pro/Any Other Brands still same)
+
+Steps To Reproduce:
+
+1. Open the website (Shop page where products are displayed)
+2. Open Inspect → select Mobile → choose device: iPhone 12 Pro/Any Other Brands still same
+3. On main page, tap any product image
+4. Inside product view, image appears normal
+5. Press back to return to main page
+
+Expected Result:
+
+The product image size on the main page should remain consistent and should not appear zoomed in or shrunk when returning from product detail view.
+
+Actual Result:
+
+After returning to the main page, the product images appear zoomed in / visually shrunk, making the product look distorted.
+
+Severity:
+
+Low (UI/Visual only, but affects user perception of design & product quality)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
