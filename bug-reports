@@ -1,1 +1,48 @@
+Bug #1
 
+Bug Title: Product Card UI Misalignment on iPhone 12 Pro Viewport
+
+Category / Type: UI / Responsive Design Issue
+
+Field	Details
+Bug Title	Product Card UI Misalignment on iPhone 12 Pro Viewport
+Website Tested	(put website name here)
+Environment	Desktop Chrome → Inspect → Responsive Mode → iPhone 12 Pro
+
+Steps to Reproduce	
+1. Open website
+2. Open product listing page
+3. Open DevTools → Responsive → select iPhone 12 Pro viewport
+4. Observe spacing between images, text, and price
+
+Actual Result	Images, product name text, and product price appear misaligned with large empty spaces; price appears too low from product image
+Expected Result	UI elements should remain aligned correctly across different devices; price, text, and image should maintain consistent spacing layout
+
+Severity: Low (because function still works but UI looks messy)
+
+Bug #2
+
+Bug Title: Missing Home navigation button inside Cart / Checkout page
+
+Website Tested: (put here what site you testing)
+
+Environment: Chrome DevTools – Mobile View (iPhone 12 Pro)
+
+Steps to Reproduce:
+
+Open the website
+
+Add any product to cart
+
+Go to Cart page then proceed to Checkout
+
+Look for Home navigation button
+
+Expected Result:
+There should be a visible Home button or quick navigation option to return back to main homepage easily.
+
+Actual Result:
+No Home button exists on Cart / Checkout page. User needs to press Cancel or manually navigate back.
+
+Severity: Low
+(But can affect older users or non-tech users because they may not understand how to go back)
