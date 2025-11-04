@@ -1,1 +1,11 @@
+# Login Page - Test Cases
+
+| Test Case                                           | Steps                                                                           | Expected Result |
+
+| Login with valid email and valid password           | Enter valid email + valid password then click Login                             | User successfully logs in and redirects to homepage |
+| Login with invalid email format                     | Enter invalid email format + valid password then click Login                    | System shows “Invalid email format” and login fails |
+| Login with valid email but wrong password           | Enter valid email + wrong password then click Login                             | System shows “Incorrect password” and login fails |
+| Login with invalid email and valid password         | Enter invalid email + valid password then click Login                           | System shows error message and login fails |
+| Both fields empty                                   | Leave email and password empty then click Login                                 | System shows “Email and Password required” and login fails |
+| Forgot Password Request                             | Click “Forgot Password”, enter registered email, submit                         | System sends password reset link to the email |
 
