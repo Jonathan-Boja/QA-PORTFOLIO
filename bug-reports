@@ -124,8 +124,57 @@ User must remove each product manually one-by-one by clicking individual “Remo
 Severity: Low (Feature / UX improvement)
 
 
+---------------------------------------------------------------------------------------------------------------
 
+SECOND WEBSITE TESTING - SOCIA 
 
+Bug #6 
+
+BUG TITLE: "Button Mutilple Pop Up Notifications if you submitted without text"
+
+Website Tested - Socia HHRE Link - https://socia.ph/get-started
+
+Environment: Dekstop Viw - Googlee Chrome
+
+Steps to Reproduce
+
+Click Next without have a text in name,email etc
+
+Spam Click next now it pop up too much notications and no limit need add limtations for that
+
+Expected Result:
+Theree should have a limited so you cant spam next so the notifcations not pop up too much
+
+Actual Result:
+Right side full notifacations if you spam.
+        
+Severity: Low (Features)
+
+Bug #7
+
+Bug title: "Hover the text no pointer to ideentify easily if you can click that "
+
+Website Tested - Socia HHRE Link - https://socia.ph/get-started
+
+Environment: Dekstop Viw - Googlee Chrome
+
+Steps to Reproduce
+
+Scroll down until end 
+
+Check Home, About and Our Projects below them
+
+You can see thier services but if you hover that text no pointere that you can actual clck that if you are not techie you cant know that
+
+Expected Result:
+There should be a pointer if you hover that text so easily know that this text have a link 
+
+Acutal Result
+No Pointer hard to identify if you are not techie
+
+Severity: Medium (Feature / UX improvement) It can affect for the company
+
+-------------------------------------------------------------------------------------------------------------
 
 
 
