@@ -1,4 +1,4 @@
-#1 Title:
+#1 Title
 
 Improve Logo/Icon Visibility for Better Brand Identification
 
@@ -8,13 +8,18 @@ https://www.helmetprosolutions.com/
 Type:
 UI/UX Improvement / Enhancement
 
-Current Behavior:
+Severity / Threat Level:
+Low
+
+Current Behavior
+
 The website logo/icon is too small and not easily visible. Users may have difficulty recognizing the brand at first glance, especially on smaller screens.
 
-Issue:
+Issue
+
 Poor logo visibility reduces brand recognition and may cause users to overlook the company identity.
 
-Suggested Improvement:
+Suggested Improvement
 
 Increase the size of the logo/icon for better visibility
 
@@ -22,7 +27,7 @@ Reposition the logo to a more prominent area (e.g., top-left or header section)
 
 Ensure the logo is clearly visible across different screen sizes
 
-Expected Improvement:
+Expected Improvement
 
 Easier brand identification
 
@@ -30,10 +35,113 @@ Improved user experience
 
 Stronger visual presence and credibility
 
-Device: Desktop
+Device:
+Desktop
 
+#2 Title
 
+Address Text Is Not Linked to Contact Us Map Section
 
+Website Tested:
+https://www.helmetprosolutions.com/
 
+Type:
+UI/UX Improvement / Enhancement
 
+Severity / Threat Level:
+Medium
 
+Current Behavior
+
+When clicking the shop’s address text on the website, the page only scrolls upward and no relevant section is displayed. Although a map exists on the Contact Us page, the address text is not linked to it.
+
+Suggested Improvement
+
+Make the address text clickable so that it redirects users to the Contact Us section/page, where the shop’s map location is available.
+
+Expected Improvement
+
+Users can quickly view the shop’s location by clicking the address, making navigation easier and more intuitive.
+
+Impact / Benefit
+
+Easier navigation for customers
+
+Better usability and user convenience
+
+Improves trust and professionalism of the website
+
+Device:
+Desktop
+
+#3 Title
+
+Inconsistent Capitalization in Login Button Text
+
+Website Tested:
+https://www.helmetprosolutions.com/
+
+Type:
+UI/UX Improvement / Enhancement
+
+Severity / Threat Level:
+Low
+
+Current Behavior
+
+The Login button text is displayed as “LogIn”, which uses inconsistent capitalization. This makes the text look slightly unpolished and visually off.
+
+Suggested Improvement
+
+Change the button text from “LogIn” to “Login” or “Log in” to follow standard UI text conventions and improve visual consistency.
+
+Expected Improvement
+
+The button will appear more professional and easier to read, improving overall user experience.
+
+Impact / Benefit
+
+Cleaner and more professional UI
+
+Better readability
+
+Improved user perception of website quality
+
+Device:
+Desktop
+
+#4 Title
+
+Numeric Input Fields Force Leading Zero
+
+Website Tested:
+https://www.helmetprosolutions.com/
+
+Type:
+UI/UX Improvement / Enhancement
+
+Severity / Threat Level:
+Medium
+
+Current Behavior
+
+Numeric input fields are pre-filled with 0, and the value cannot be fully deleted. When users type a number, the input always keeps the leading zero (e.g., 090, 0100). Although calculations are not affected, the behavior feels confusing and unpolished.
+
+Suggested Improvement
+
+Allow users to fully clear the input field or automatically replace the default 0 when typing. Alternatively, remove the default 0 and use placeholder text instead.
+
+Expected Improvement
+
+Inputs will behave naturally, improving clarity and user confidence when entering values.
+
+Impact / Benefit
+
+Better user experience
+
+More natural data entry behavior
+
+Cleaner and more professional UI
+
+Device:
+Desktop
