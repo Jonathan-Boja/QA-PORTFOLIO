@@ -145,3 +145,55 @@ Cleaner and more professional UI
 
 Device:
 Desktop
+
+#5 Title
+
+Large JPEG/PNG Images Affect Website Loading Speed
+
+Website Tested:
+https://www.helmetprosolutions.com/
+
+Type:
+Performance Optimization / Enhancement
+
+Severity / Threat Level:
+Medium
+
+Current Behavior
+
+The website loads multiple large image files in JPEG and PNG formats, with some images reaching up to 2.3 MB in size.
+
+During Chrome DevTools Network testing (3G simulation), these large image files significantly increased page load time, especially on slower internet connections and mobile devices.
+
+Suggested Improvement
+
+Convert large JPEG/PNG images to WebP format for better compression.
+
+Compress images before uploading (target size: under 300–500 KB for large sections).
+
+Implement lazy loading for images below the fold.
+
+Serve properly sized images based on device resolution (responsive images).
+
+Expected Improvement
+
+Faster page load time
+
+Improved mobile performance
+
+Better Google PageSpeed score
+
+Reduced bandwidth usage
+
+Impact / Benefit
+
+Better overall user experience
+
+Reduced bounce rate
+
+More optimized and professional website performance
+
+Improved SEO ranking due to faster load speed
+
+Device:
+Desktop (Tested using Chrome DevTools – 3G Simulation)
